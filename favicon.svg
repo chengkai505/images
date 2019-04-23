@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="64px" height="64px">
-<linearGradient id="SVGID_1__79041" gradientUnits="userSpaceOnUse" x1="32" y1="9.0833" x2="32" y2="54.6759" spreadMethod="reflect">
-	<stop offset="0" style="stop-color:#1A6DFF"/>
-	<stop offset="1" style="stop-color:#C822FF"/>
-</linearGradient>
-<path style="fill:url(#SVGID_1__79041);" d="M50,55H14c-2.757,0-5-2.243-5-5V14c0-2.757,2.243-5,5-5h36c2.757,0,5,2.243,5,5v36  C55,52.757,52.757,55,50,55z M14,11c-1.654,0-3,1.346-3,3v36c0,1.654,1.346,3,3,3h36c1.654,0,3-1.346,3-3V14c0-1.654-1.346-3-3-3H14  z"/>
-<linearGradient id="SVGID_2__79041" gradientUnits="userSpaceOnUse" x1="32" y1="19" x2="32" y2="45" spreadMethod="reflect">
-	<stop offset="0" style="stop-color:#6DC7FF"/>
-	<stop offset="1" style="stop-color:#E6ABFF"/>
-</linearGradient>
-<path style="fill:url(#SVGID_2__79041);" d="M43,29h-1c-1.11,0-2-0.9-2-2c0-4.4-3.6-8-8-8h-5c-4.4,0-8,3.6-8,8v10c0,4.4,3.6,8,8,8h10  c4.4,0,8-3.6,8-8v-6C45,29.9,44.1,29,43,29z M27,25h5c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2h-5c-1.1,0-2-0.9-2-2C25,25.9,25.9,25,27,25z   M37,39H27c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2h10c1.1,0,2,0.9,2,2C39,38.1,38.1,39,37,39z"/>
-</svg>
+<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="style_2_copy"><g><g><g><polygon points="21.945,3.118 20.452,1.625 1.625,1.625 1.625,28.882 10.055,28.882 11.548,30.375 30.375,30.375 30.375,3.118           "/></g></g><g><polygon fill="#999999" points="1.625,4.777 8.492,4.777 9.617,3.652 16.529,3.652 18.047,5.17 23.497,5.17 23.497,4.92      18.151,4.92 16.632,3.402 1.625,3.402    "/></g><g><g><polygon fill="#999999" points="21.52,28.601 14.995,28.601 14.995,28.351 21.416,28.351 22.205,27.563 30.375,27.563       30.375,27.813 22.309,27.813     "/></g></g><g opacity="0.25"><rect fill="#FFFFFF" height="27.257" width="2.612" x="1.625" y="1.625"/></g><g opacity="0.25"><rect fill="#FFFFFF" height="1.375" width="2.612" x="1.625" y="3.402"/></g></g></g><g id="s2"><g><g><path d="M23.792,19.112V16c0-0.861-0.706-1.568-1.567-1.568h-0.773c-0.441,0-0.795-0.353-0.795-0.773     c0-3.002-2.45-5.452-5.452-5.452h-2.34c-2.56,0-4.657,2.097-4.657,4.657v6.246c0,2.56,2.097,4.68,4.657,4.68h6.246     C21.672,23.792,23.792,21.672,23.792,19.112L23.792,19.112z M12.865,18.317h5.452c0.442,0,0.795,0.354,0.795,0.795     c0,0.42-0.353,0.773-0.795,0.773h-5.452c-0.419,0-0.772-0.353-0.772-0.773C12.093,18.671,12.446,18.317,12.865,18.317     L12.865,18.317z M16.596,12.866c0,0.441-0.331,0.795-0.772,0.795h-2.958c-0.419,0-0.772-0.353-0.772-0.795     c0-0.419,0.353-0.772,0.772-0.772h2.958C16.265,12.093,16.596,12.446,16.596,12.866L16.596,12.866z" fill="#FFFFFF"/></g></g></g></svg>
